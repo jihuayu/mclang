@@ -1,0 +1,119 @@
+itemGroup.mysticalworld=Mystical World
+
+entity.entity_fox.name=Fox
+entity.entity_frog.name=Frog
+entity.entity_beetle.name=Beetle
+entity.entity_deer.name=Deer
+
+item.carapace.name=Carapace
+item.pelt.name=Pelt
+
+# Ingots
+item.copper_ingot.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
+item.silver_ingot.name=Silver Ingot
+item.lead_ingot.name=Lead Ingot
+item.nickel_ingot.name=Nickel Ingot
+item.aluminum_ingot.name=Aluminium Ingot
+item.zinc_ingot.name=Zinc Ingot
+item.invar_ingot.name=Invar Ingot
+item.electrum_ingot.name=Electrum Ingot
+item.brass_ingot.name=Brass Ingot
+item.bronze_ingot.name=Bronze Ingot
+
+# Nuggets
+item.copper_nugget.name=Copper Nugget
+item.tin_nugget.name=Tin Nugget
+item.silver_nugget.name=Silver Nugget
+item.lead_nugget.name=Lead Nugget
+item.nickel_nugget.name=Nickel Nugget
+item.aluminum_nugget.name=Aluminium Nugget
+item.zinc_nugget.name=Zinc Nugget
+item.invar_nugget.name=Invar Nugget
+item.electrum_nugget.name=Electrum Nugget
+item.brass_nugget.name=Brass Nugget
+item.bronze_nugget.name=Bronze Nugget
+
+# Metal Blocks
+tile.copper_block.name=Block of Copper
+tile.tin_block.name=Block of Tin
+tile.silver_block.name=Block of Silver
+tile.lead_block.name=Block of Lead
+tile.nickel_block.name=Block of Nickel
+tile.aluminum_block.name=Block of Aluminium
+tile.zinc_block.name=Block of Zinc
+tile.invar_block.name=Block of Invar
+tile.electrum_block.name=Block of Electrum
+tile.brass_block.name=Block of Brass
+tile.bronze_block.name=Block of Bronze
+
+# Dusts
+item.copper_dust.name=Copper Dust
+item.tin_dust.name=Tin Dust
+item.silver_dust.name=Silver Dust
+item.lead_dust.name=Lead Dust
+item.nickel_dust.name=Nickel Dust
+item.aluminum_dust.name=Aluminum Dust
+item.zinc_dust.name=Zinc Dust
+item.invar_dust.name=Invar Dust
+item.electrum_dust.name=Electrum Dust
+item.brass_dust.name=Brass Dust
+item.bronze_dust.name=Bronze Dust
+
+item.iron_dust.name=Iron Dust
+item.gold_dust.name=Gold Dust
+
+# Tiny Dusts
+item.copper_dust_tiny.name=Tiny Pile of Copper Dust
+item.tin_dust_tiny.name=Tiny Pile of Tin Dust
+item.silver_dust_tiny.name=Tiny Pile of Silver Dust
+item.lead_dust_tiny.name=Tiny Pile of Lead Dust
+item.nickel_dust_tiny.name=Tiny Pile of Nickel Dust
+item.aluminum_dust_tiny.name=Tiny Pile of Aluminum Dust
+item.zinc_dust_tiny.name=Tiny Pile of Zinc Dust
+item.invar_dust_tiny.name=Tiny Pile of Invar Dust
+item.electrum_dust_tiny.name=Tiny Pile of Electrum Dust
+item.brass_dust_tiny.name=Tiny Pile of Brass Dust
+item.bronze_dust_tiny.name=Tiny Pile of Bronze Dust
+
+item.iron_dust_tiny.name=Tiny Pile of Iron Dust
+item.gold_dust_tiny.name=Tiny Pile of Gold Dust
+
+# Ores
+tile.copper_ore.name=Copper Ore
+tile.tin_ore.name=Tin Ore
+tile.silver_ore.name=Silver Ore
+tile.lead_ore.name=Lead Ore
+tile.nickel_ore.name=Nickel Ore
+tile.aluminum_ore.name=Aluminum Ore
+tile.zinc_ore.name=Zinc Ore
+
+# Embers Metals
+item.dawnstone_ingot.name=Dawnstone Ingot
+item.sooty_iron_ingot.name=Sooty Iron Ingot
+
+item.dawnstone_nugget.name=Dawnstone Nugget
+item.sooty_iron_nugget.name=Sooty Iron Nugget
+
+tile.dawnstone_block.name=Block of Dawnstone
+tile.sooty_iron_block.name=Block of Sooty Iron
+
+# Caminite
+tile.caminite.name=Caminite Block
+tile.caminite_stairs.name=Caminite Stairs
+tile.caminite_slab.name=Caminite Slab
+tile.caminite_double_slab.name=Caminite Double Slab
+tile.caminite_wall.name=Caminite Wall
+
+tile.caminite_bricks.name=Caminite Bricks
+tile.caminite_bricks_stairs.name=Caminite Brick Stairs
+tile.caminite_bricks_slab.name=Caminite Brick Slab
+tile.caminite_bricks_double_slab.name=Caminite Brick Double Slab
+tile.caminite_bricks_wall.name=Caminite Brick Wall
+
+#Solar Infused
+tile.solar_infused_stone.name=Solar Infused Stone
+tile.solar_infused_stone_stairs.name=Solar Infused Stone Stairs
+tile.solar_infused_stone_slab.name=Solar Infused Stone Slab
+tile.solar_infused_stone_double_slab.name=Solar Infused Stone Double Slab
+tile.solar_infused_stone_wall.name=Solar Infused Stone Wall
